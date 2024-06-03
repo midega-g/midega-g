@@ -1,5 +1,5 @@
 # 💫 About Me:
-📜 I write articles about Data Science, Data Engineering, and MLOps on Medium.<br>🎯 I am currently looking for a role to enable me to further my skills in these fields.<br>📚 I learn from online platforms.<br>🎓 I did a BSc in Microbiology and Biotechnology but I have never practiced.
+📜 I write articles about Data Science, Data Engineering, and MLOps on <a href="https://medium.com/@midegageorge2" style="text-decoration:none">Medium</a>.<br>🎯 I am currently looking for a role to enable me to further my skills in these fields.<br>📚 I learn from online platforms.<br>🎓 I did a BSc in Microbiology and Biotechnology but I have never practiced.
 
 
 ## 🌐 Socials:
